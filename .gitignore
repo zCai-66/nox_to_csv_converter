@@ -1,0 +1,21 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.venv/
+build/
+dist/
+*.egg-info/
+outputs/
+*.exe
+*.spec
+
+# Keep real or generated lab data out of the public repo.
+Data/
+heritage/
+*.nox
+*.csv
+*.txt
+*.xlsx
+*.xls
